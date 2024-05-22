@@ -1,2 +1,2 @@
-# UncomplicatingTerraform
+# Uncomplicating_Terraform
 Uncomplicating Terraform
